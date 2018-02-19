@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceX Launches</string>
+    <string name="mission_patch">mission_patch</string>
+    <string name="spinner">Spinner</string>
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="network_conn">Please check the internet connection and try again.</string>
+    <string name="try_again">Try again</string>
+    <string name="action_article_open_browser">Open in browser</string>
+    <string name="action_open_youtube">Youtube</string>
+</resources>

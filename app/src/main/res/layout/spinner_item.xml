@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:background="@color/colorPrimary"
+    android:textColor="@android:color/white"
+    android:singleLine="true"
+    android:textSize="@dimen/spinner_text_size"
+    android:textStyle="bold"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:ellipsize="marquee"
+    android:textAlignment="inherit"/>

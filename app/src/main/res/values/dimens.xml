@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_date_top_padding">24dp</dimen>
+    <dimen name="item_start_padding">16dp</dimen>
+    <dimen name="item_rocket_name_top_padding">8dp</dimen>
+    <dimen name="item_end_padding">16dp</dimen>
+    <dimen name="item_image_top_padding">16dp</dimen>
+    <dimen name="item_image_start_padding">16dp</dimen>
+    <dimen name="item_details_padding">16dp</dimen>
+    <dimen name="item_image_size">110dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="spinner_text_size">18sp</dimen>
+    <dimen name="spinner_start_padding">8dp</dimen>
+    <dimen name="network_conn_padding">16dp</dimen>
+    <dimen name="launch_title_text_size">24sp</dimen>
+
+</resources>
