@@ -106,6 +106,7 @@ public class LaunchesAdapter extends RecyclerView.Adapter<LaunchesAdapter.Launch
 
         @Override
         public void onClick(View view) {
+            launches.moveToPosition(getAdapterPosition());
             mOnClickLaunch.onClickLaunch(new String[]{launches.getString(launches.getColumnIndexOrThrow(LaunchesEntry.ARTICLE_LINK)),
                     launches.getString(launches.getColumnIndexOrThrow(LaunchesEntry.VIDEO_LINK))});
         }
